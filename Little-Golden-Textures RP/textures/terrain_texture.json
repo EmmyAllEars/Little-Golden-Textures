@@ -1,0 +1,48 @@
+{
+   "num_mip_levels" : 4,
+   "padding" : 8,
+   "resource_pack_name" : "littlegoldentextures",
+   "texture_data" : {
+      "stained_glass_pane" : {
+         "textures" : [
+            "textures/blocks/glass_pane_white",
+            "textures/blocks/glass_pane_orange",
+            "textures/blocks/glass_pane_magenta",
+            "textures/blocks/glass_pane_light_blue",
+            "textures/blocks/glass_pane_yellow",
+            "textures/blocks/glass_pane_lime",
+            "textures/blocks/glass_pane_pink",
+            "textures/blocks/glass_pane_gray",
+            "textures/blocks/glass_pane_silver",
+            "textures/blocks/glass_pane_cyan",
+            "textures/blocks/glass_pane_purple",
+            "textures/blocks/glass_pane_blue",
+            "textures/blocks/glass_pane_brown",
+            "textures/blocks/glass_pane_green",
+            "textures/blocks/glass_pane_red",
+            "textures/blocks/glass_pane_black"
+         ]
+      },
+      "carpet" : {
+         "textures" : [
+            "textures/blocks/carpet_white",
+            "textures/blocks/carpet_orange",
+            "textures/blocks/carpet_magenta",
+            "textures/blocks/carpet_light_blue",
+            "textures/blocks/carpet_yellow",
+            "textures/blocks/carpet_lime",
+            "textures/blocks/carpet_pink",
+            "textures/blocks/carpet_gray",
+            "textures/blocks/carpet_silver",
+            "textures/blocks/carpet_cyan",
+            "textures/blocks/carpet_purple",
+            "textures/blocks/carpet_blue",
+            "textures/blocks/wcarpet_brown",
+            "textures/blocks/carpet_green",
+            "textures/blocks/carpet_red",
+            "textures/blocks/carpet_black"
+         ]
+      }
+   },
+   "texture_name" : "atlas.terrain"
+}
