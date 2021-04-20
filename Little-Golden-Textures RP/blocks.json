@@ -1,0 +1,17 @@
+{
+   "carpet" : {
+      "sound" : "cloth",
+      "textures" : "carpet"
+   },
+   "stained_glass_pane" : {
+      "sound" : "glass",
+      "textures" : {
+         "down" : "stained_glass_pane",
+         "east" : "stained_glass_pane_top",
+         "north" : "stained_glass_pane",
+         "south" : "stained_glass_pane",
+         "up" : "stained_glass_pane",
+         "west" : "stained_glass_pane"
+      }
+   }
+}
