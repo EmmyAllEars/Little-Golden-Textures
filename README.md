@@ -9,6 +9,7 @@ The goal is to create a Minecraft world that's easy on the eyes and doesn't stra
 ## Current Progress
 
 Blocks: ![35%](https://progress-bar.dev/35)
+
 Mobs: ![0%](https://progress-bar.dev/0)
 
 # Examples
