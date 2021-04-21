@@ -6,6 +6,10 @@ LGT is inspiried by classic children's literature illustrations such as The Litt
 
 The goal is to create a Minecraft world that's easy on the eyes and doesn't stray too far from vanilla Minecraft. 
 
+## Current Progress
+
+![20%](https://progress-bar.dev/20)
+
 # Examples
 
 ![Woods](https://user-images.githubusercontent.com/3710219/115492363-acba8680-a22f-11eb-92a5-98c0148d1153.png)
