@@ -10,27 +10,27 @@ The goal is to create a Minecraft world that's easy on the eyes, somewhat whimsi
 
 ## Current Progress
 
-Blocks: ![25%](https://progress-bar.dev/25)
+Blocks (792): ![25%](https://progress-bar.dev/25)
 
-Entity: ![0%](https://progress-bar.dev/0)
+Entity (318): ![0%](https://progress-bar.dev/0)
 
-Environment: ![30%](https://progress-bar.dev/30)
+Environment (16): ![30%](https://progress-bar.dev/30)
 
-GUI: ![0%](https://progress-bar.dev/0)
+GUI (164): ![0%](https://progress-bar.dev/0)
 
-Items: ![0%](https://progress-bar.dev/0)
+Items (500): ![0%](https://progress-bar.dev/0)
 
-Map: ![0%](https://progress-bar.dev/0)
+Map (3): ![0%](https://progress-bar.dev/0)
 
-Misc: ![0%](https://progress-bar.dev/0)
+Misc (3): ![0%](https://progress-bar.dev/0)
 
-Models: ![0%](https://progress-bar.dev/0)
+Models (16): ![0%](https://progress-bar.dev/0)
 
-Painting: ![100%](https://progress-bar.dev/100)
+Painting (1): ![100%](https://progress-bar.dev/100)
 
-Particle: ![100%](https://progress-bar.dev/100)
+Particle (3): ![100%](https://progress-bar.dev/100)
 
-UI: ![0%](https://progress-bar.dev/0)
+UI (1,126): ![0%](https://progress-bar.dev/0)
 
 # Examples
 
