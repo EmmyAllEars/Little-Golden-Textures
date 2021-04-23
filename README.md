@@ -20,3 +20,8 @@ Mobs: ![0%](https://progress-bar.dev/0)
 
 ![moon_phases](https://user-images.githubusercontent.com/3710219/115492377-b3e19480-a22f-11eb-98a5-7e89e3cf4310.png)
 
+![cocoa](https://user-images.githubusercontent.com/3710219/115823505-6c483d80-a3d4-11eb-9c0b-8b2e2de22347.png)
+
+![obsidian](https://user-images.githubusercontent.com/3710219/115823514-6f432e00-a3d4-11eb-8569-dcd02d6f6224.png)
+
+
