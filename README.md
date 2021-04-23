@@ -10,6 +10,8 @@ The goal is to create a Minecraft world that's easy on the eyes, somewhat whimsi
 
 ## Current Progress
 
+_(Category (total): percentage complete)_
+
 Blocks (792): ![25%](https://progress-bar.dev/25)
 
 Entity (318): ![0%](https://progress-bar.dev/0)
