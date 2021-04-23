@@ -13,5 +13,16 @@
          "up" : "stained_glass_pane",
          "west" : "stained_glass_pane"
       }
+   },
+   "glass_pane" : {
+      "sound" : "glass",
+      "textures" : {
+         "down" : "glass_pane",
+         "east" : "glass_pane_top",
+         "north" : "glass_pane",
+         "south" : "glass_pane",
+         "up" : "glass_pane",
+         "west" : "glass_pane"
+      }
    }
 }

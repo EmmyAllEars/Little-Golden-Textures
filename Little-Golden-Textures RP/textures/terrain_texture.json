@@ -3,6 +3,11 @@
    "padding" : 8,
    "resource_pack_name" : "littlegoldentextures",
    "texture_data" : {
+      "glass_pane" : {
+         "textures" : [
+            "textures/blocks/glass_pane"
+         ]
+      },
       "stained_glass_pane" : {
          "textures" : [
             "textures/blocks/glass_pane_white",
