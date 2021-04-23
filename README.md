@@ -12,7 +12,25 @@ The goal is to create a Minecraft world that's easy on the eyes and doesn't stra
 
 Blocks: ![35%](https://progress-bar.dev/35)
 
-Mobs: ![0%](https://progress-bar.dev/0)
+Entity: ![0%](https://progress-bar.dev/0)
+
+Environment: ![30%](https://progress-bar.dev/30)
+
+GUI: ![0%](https://progress-bar.dev/0)
+
+Items: ![0%](https://progress-bar.dev/0)
+
+Map: ![0%](https://progress-bar.dev/0)
+
+Misc: ![0%](https://progress-bar.dev/0)
+
+Models: ![0%](https://progress-bar.dev/0)
+
+Painting: ![100%](https://progress-bar.dev/100)
+
+Particle: ![100%](https://progress-bar.dev/100)
+
+UI: ![0%](https://progress-bar.dev/0)
 
 # Examples
 
