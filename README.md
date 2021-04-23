@@ -6,17 +6,42 @@
 
 LGT is inspiried by classic children's literature illustrations such as The Little Golden Books and Wonder Story Books.
 
-The goal is to create a Minecraft world that's easy on the eyes and doesn't stray too far from vanilla Minecraft. 
+The goal is to create a Minecraft world that's easy on the eyes, somewhat whimsical, and doesn't stray too far towards realism. 
 
 ## Current Progress
 
-Blocks: ![35%](https://progress-bar.dev/35)
+_(Category (total): percentage complete)_
 
-Mobs: ![0%](https://progress-bar.dev/0)
+Blocks (792): ![25%](https://progress-bar.dev/25)
+
+Entity (318): ![0%](https://progress-bar.dev/0)
+
+Environment (16): ![30%](https://progress-bar.dev/30)
+
+GUI (164): ![0%](https://progress-bar.dev/0)
+
+Items (500): ![0%](https://progress-bar.dev/0)
+
+Map (3): ![0%](https://progress-bar.dev/0)
+
+Misc (3): ![0%](https://progress-bar.dev/0)
+
+Models (16): ![0%](https://progress-bar.dev/0)
+
+Painting (1): ![100%](https://progress-bar.dev/100)
+
+Particle (3): ![100%](https://progress-bar.dev/100)
+
+UI (1,126): ![0%](https://progress-bar.dev/0)
 
 # Examples
 
 ![Woods](https://user-images.githubusercontent.com/3710219/115492363-acba8680-a22f-11eb-92a5-98c0148d1153.png)
 
 ![moon_phases](https://user-images.githubusercontent.com/3710219/115492377-b3e19480-a22f-11eb-98a5-7e89e3cf4310.png)
+
+![cocoa](https://user-images.githubusercontent.com/3710219/115823505-6c483d80-a3d4-11eb-9c0b-8b2e2de22347.png)
+
+![obsidian](https://user-images.githubusercontent.com/3710219/115823514-6f432e00-a3d4-11eb-8569-dcd02d6f6224.png)
+
 
