@@ -6,7 +6,7 @@
 
 LGT is inspiried by classic children's literature illustrations such as The Little Golden Books and Wonder Story Books.
 
-The goal is to create a Minecraft world that's easy on the eyes and doesn't stray too far from vanilla Minecraft. 
+The goal is to create a Minecraft world that's easy on the eyes, somewhat whimsical, and doesn't stray too far towards realism. 
 
 ## Current Progress
 
