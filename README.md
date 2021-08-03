@@ -43,4 +43,15 @@ Painting (1): ![100%](https://progress-bar.dev/100)
 
 ![obsidian](https://user-images.githubusercontent.com/3710219/115823514-6f432e00-a3d4-11eb-8569-dcd02d6f6224.png)
 
+![glazed_terracotta](https://user-images.githubusercontent.com/3710219/116900363-a8667400-ac06-11eb-8158-19d8ade04b80.png)
+
+![Snow](https://user-images.githubusercontent.com/3710219/116900382-ac929180-ac06-11eb-96e0-7dc752838bfb.png)
+
+![soulsoilsand](https://user-images.githubusercontent.com/3710219/116900393-af8d8200-ac06-11eb-8ae6-22940340d640.png)
+
+![glasses](https://user-images.githubusercontent.com/3710219/116900404-b1efdc00-ac06-11eb-8f1b-abcf5bdbb983.png)
+
+![netherblocks](https://user-images.githubusercontent.com/3710219/116900411-b4523600-ac06-11eb-89af-50ed52ea65dc.png)
+
+
 
