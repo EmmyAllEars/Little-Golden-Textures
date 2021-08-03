@@ -2,17 +2,17 @@
     "format_version": 2,
     "header": {
         "description": "Little Golden Textures (Caves & Cliffs)",
-        "name": "Little Golden Textures",
-        "uuid": "3c71e770-8b40-41eb-8dcd-0242ac13bbeb",
-        "version": [ 1, 0, 0],
-        "min_engine_version": [ 1, 16, 210 ]
+        "name": "LGT Caves and Cliffs 1.0",
+        "uuid": "6382593c-d308-4882-a8a5-11d3a13c4799",
+        "version": [ 1, 0, 3],
+        "min_engine_version": [ 1, 17, 0 ]
     },
     "modules": [
         {
-            "description": "Little Golden Textures",
+            "description": "LGT Caves and Cliffs",
             "type": "resources",
-            "uuid": "231c44e4-8b42-41eb-8dcd-0242ac13bbeb",
-            "version": [1, 0, 0]
+            "uuid": "86a76621-79ef-487d-aeaa-771333437b0e",
+            "version": [1, 0, 3]
         }
     ]
 }
