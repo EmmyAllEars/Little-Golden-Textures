@@ -5,7 +5,7 @@
         "name": "LGT Caves and Cliffs 1.0",
         "uuid": "6382593c-d308-4882-a8a5-11d3a13c4799",
         "version": [ 1, 0, 3],
-        "min_engine_version": [ 1, 17, 0 ]
+        "min_engine_version": [ 1, 16, 0 ]
     },
     "modules": [
         {
