@@ -2,3 +2,5 @@
 *.psd
 /sources and working files/*
 *.mcpack
+*.zip
+*.mcaddon
